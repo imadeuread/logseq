@@ -20,7 +20,7 @@
  ;; Define the default journal page template.
  ;; Enter the template name between the quotes.
  :default-templates
- {:journals "time-blocker"}
+ {:journals ""}
 
  ;; Set a custom date format for the journal page title.
  ;; Default value: "MMM do, yyyy"
