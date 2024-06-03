@@ -25,7 +25,7 @@
 	- ### Daily Metrics
 		- TODO [[Devotion/Personal]]
 		  template:: Personal Devotion
-		  template-including-parent:: true
+		  template-including-parent:: false
 		  :LOGBOOK:
 		  CLOCK: [2024-01-05 Fri 10:06:28]--[2024-01-05 Fri 10:06:29] =>  00:00:01
 		  :END:
@@ -36,11 +36,12 @@
 				- Promise:
 				- Sin to Avoid:
 		- TODO Physical Workout
-	- ### Engineer's Daybook
-		- #### Notes:
-			-
-		- #### Tasks:
-			-
+	-
+- ### Daybook
+	- #### Notes:
+		-
+	- #### Tasks:
+		-
 	- ### Time-blocker
 		- #### Morning:
 		  collapsed:: true
