@@ -35,7 +35,6 @@
 				- Command:
 				- Promise:
 				- Sin to Avoid:
-		- TODO Physical Workout
 	-
 - ### Daybook
 	- #### Notes:
