@@ -10,8 +10,8 @@
 	  Title:
 - [[Notes/Meeting]]
   template:: Meeting Notes
-	- Date:
-	- Location:
+	- Date: June 23, 2024
+	- Location: Dabubu Grande, San Agustin (Ptr. Romula Pascual)
 	- Participants:
 	- #### Agenda:
 	- Minutes:
