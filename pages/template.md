@@ -13,6 +13,8 @@
 	- Date: June 23, 2024
 	- Location: Dabubu Grande, San Agustin (Ptr. Romula Pascual)
 	- Participants:
+	- Devotion:
+		- tags::
 	- #### Agenda:
 	- Minutes:
 	- Decisions:
