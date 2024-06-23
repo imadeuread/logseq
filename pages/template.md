@@ -10,8 +10,6 @@
 	  Title:
 - [[Notes/Meeting]]
   template:: Meeting Notes
-	- relates-to:: [[]]
-	  tags::
 	- Date:
 	- Location:
 	- Participants:
