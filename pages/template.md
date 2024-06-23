@@ -15,6 +15,7 @@
 	- Participants:
 	- Devotion:
 		- tags::
+		  sharer::
 	- #### Agenda:
 	- Minutes:
 	- Decisions:
